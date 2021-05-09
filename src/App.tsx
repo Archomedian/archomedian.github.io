@@ -1,9 +1,10 @@
 import './App.css';
-import Hub from './hub/App';
+// import Hub from './hub/Hub';
 
 function App() {
   return (
-    <Hub />
+    <></>
+    // <Hub />
     // <div className="App">
     //   <header className="App-header">
     //     <img src={logo} className="App-logo" alt="logo" />
